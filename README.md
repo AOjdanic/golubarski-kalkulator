@@ -1,3 +1,9 @@
+This is a small android app made for a friends father, who is a pigeon keeper, and he used to have a same app on the old phone. Now that he has a new phone, the operating system is incompatible with the old app, which is not on any playstore, so i created a new one which looks the same as the previous one and has the same functionality, as the app itself is extremely simple. 
+
+This was the first time i worked with react native and expo, and i must say that it is amazing how easy it is to create a simple mobile phone app with no prior experience in this field, as these frameworks make it very simple. The documentation is great, and nothing else is actually required in order to create an apk. It took me about ~2 hours to bootstrap, build and create a release build for this.
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
