@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "golubarski-kalkulator",
+    "name": "Golubarski Kalkulator",
     "slug": "golubarski-kalkulator",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.aleksaojdanic.golubarskikalkulator"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +38,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "cc43803d-0bed-4db5-96f0-0cfc25d56ee3"
+      }
     }
   }
 }
